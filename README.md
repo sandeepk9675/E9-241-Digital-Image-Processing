@@ -74,14 +74,6 @@ This repository contains the assignments for the E9-241 Digital Image Processing
 
 3. **Fine-Tuning**:
    - Fine-tune the last layer and compare results with previous experiments.
-
----
-
-### Notes:
-- Use efficient and vectorized implementations where required.
-- Ensure proper visualization of results (e.g., histograms, plots).
-- Document observations for all tasks in a clear and concise manner.
-
 ---
 
 ### Submission:
