@@ -78,7 +78,7 @@ This repository contains the assignments for the E9-241 Digital Image Processing
 
 ### Submission:
 - Submit code, plots, and a report summarizing the implementation and results.
-- Adhere to deadlines and formatting guidelines.
+
 
 ### Repository Structure:
 - `Assignment1/`: Histogram and binarization techniques.
