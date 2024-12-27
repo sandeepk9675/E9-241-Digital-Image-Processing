@@ -1,3 +1,9 @@
+# Numerical Linear Algebra Assignments
+
+This repository contains solutions for three Numerical Linear Algebra assignments, showcasing the application of advanced computational techniques to solve real-world problems.
+
+---
+
 # E9-241 Digital Image Processing Assignments
 
 This repository contains solutions for the assignments of the E9-241 Digital Image Processing course. These solutions demonstrate various image processing techniques, including histograms, binarization, spatial filtering, frequency domain analysis, connected components, and deep learning-based image classification.
